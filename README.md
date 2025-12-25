@@ -35,3 +35,21 @@ The molecular structures and sequences contained herein are established as **Pri
 **Contact:**
 Signal 404 Research
 `signal.404.research@proton.me`
+
+---
+
+## ⚠️ LIABILITY & BIO-SAFETY DISCLAIMER
+
+### 1. Research Use Only (RUO)
+The data, sequences, and molecular structures provided in this repository are **computational predictions only** (In Silico).
+* **NOT FOR HUMAN CONSUMPTION:** These molecules have not been synthesized, tested in animals, or approved by the FDA or any regulatory body.
+* **NO MEDICAL ADVICE:** This data is for research purposes only. Do not attempt to self-medicate using these designs.
+
+### 2. Limitation of Liability
+**Signal 404 Research** provides this data "as is" without warranty of any kind, express or implied.
+By accessing this repository, you agree that **Signal 404 Research** shall not be liable for any direct, indirect, incidental, or consequential damages arising from the use, synthesis, or application of this information. You assume full responsibility for all risks associated with using this data.
+
+### 3. Bio-Safety & Dual-Use Statement
+This project is strictly defensive in nature, aimed at combating antimicrobial resistance (AMR) and neglected diseases.
+* **Toxicity Filtering:** We have applied computational filters (e.g., PAINS, Ames mutagenicity predictions, and Lipinski Rules) to minimize the likelihood of generating toxic or harmful compounds.
+* **Prohibited Use:** The use of this data to engineer biological weapons, toxins, or for any malicious purpose is strictly prohibited and condemned by the authors.
